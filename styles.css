@@ -90,3 +90,11 @@ footer{
   text-align: center;
   color: white;
 }
+.Curriculo{
+
+  text-align: center;
+  color: aliceblue;
+}
+.Curriculo img{
+  width: 600px;
+}
